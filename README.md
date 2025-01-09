@@ -2,16 +2,7 @@
 
 I'm passionate about exploring the world of data analytics and uncovering insights through data-driven decisions. Welcome to my GitHub profile, where I share my journey, projects, and learning experiences in Python, SQL, Power BI, and machine learning for data analysis.
 
-## Atul Kumar GitHub Stats
-<div style="border: 2px solid #ccc; border-radius: 10px; padding: 15px; padding-left: 30px; width: 50%; margin: 0 auto; text-align: left;">
-  <ul>
-    <li><strong>Total Stars Earned:</strong> 2</li>
-    <li><strong>Total Commits (2025):</strong> 93</li>
-    <li><strong>Total PRs:</strong> 2</li>
-    <li><strong>Total Issues:</strong> 0</li>
-    <li><strong>Contributed to (last year):</strong> 0</li>
-  </ul>
-</div>
+[![Atul Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=atulkumar7810)](https://github.com/atulkumar7810)
 
 
 
