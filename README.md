@@ -4,12 +4,15 @@ I'm passionate about exploring the world of data analytics and uncovering insigh
 
 ## Atul Kumar GitHub Stats
 <div style="border: 2px solid #ccc; border-radius: 10px; padding: 15px; padding-left: 30px; width: 50%; margin: 0 auto; text-align: left;">
-  <p><strong>Total Stars Earned:</strong> 4</p>
-  <p><strong>Total Commits (2025):</strong> 93</p>
-  <p><strong>Total PRs:</strong> 2</p>
-  <p><strong>Total Issues:</strong> 0</p>
-  <p><strong>Contributed to (last year):</strong> 0</p>
+  <ul>
+    <li><strong>Total Stars Earned:</strong> 4</li>
+    <li><strong>Total Commits (2025):</strong> 93</li>
+    <li><strong>Total PRs:</strong> 2</li>
+    <li><strong>Total Issues:</strong> 0</li>
+    <li><strong>Contributed to (last year):</strong> 0</li>
+  </ul>
 </div>
+
 
 
 ---
