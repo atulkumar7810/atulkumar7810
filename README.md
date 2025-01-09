@@ -1,4 +1,4 @@
-# Hi there, I'm Atul Kumar! 👋
+# Hi there, I'm Atul Kumar! 
 
 I'm passionate about exploring the world of data analytics and uncovering insights through data-driven decisions. Welcome to my GitHub profile, where I share my journey, projects, and learning experiences in Python, SQL, Power BI, and machine learning for data analysis.
 
@@ -42,11 +42,12 @@ I'm passionate about exploring the world of data analytics and uncovering insigh
 ---
 
 ## Certifications
-- [Google Data Analytics, Coursera](https://www.coursera.org/account/accomplishments/professional-cert/F9MFBHMY6234)  
-- [Microsoft Power BI Data Analyst, Coursera](https://www.coursera.org/account/accomplishments/professional-cert/BMQ511WM3JM5)  
-- [Google Advanced Data Analytics, Coursera](https://www.coursera.org/account/accomplishments/professional-cert/5N03NTKGEDD3)  
-- [Financial Modelling and Valuation, IIM SKILLS](https://lms.iimskills.in/certificates/a06e2edb56ef6c9f228ce2ff405f12e4/)  
-- [Machine Learning Specialization, Coursera](https://coursera.org/share/2ace6fdd0955e82e38f747d0166c9099)
+- Google Data Analytics, [Coursera](https://www.coursera.org/account/accomplishments/professional-cert/F9MFBHMY6234)  
+- Microsoft Power BI Data Analyst, [Coursera](https://www.coursera.org/account/accomplishments/professional-cert/BMQ511WM3JM5)  
+- Google Advanced Data Analytics, [Coursera](https://www.coursera.org/account/accomplishments/professional-cert/5N03NTKGEDD3)  
+- Financial Modelling and Valuation, [IIM SKILLS](https://lms.iimskills.in/certificates/a06e2edb56ef6c9f228ce2ff405f12e4/)  
+- Machine Learning Specialization, [Coursera](https://coursera.org/share/2ace6fdd0955e82e38f747d0166c9099)
+
   
 ---
 
