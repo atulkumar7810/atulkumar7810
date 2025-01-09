@@ -25,19 +25,6 @@ I'm passionate about exploring the world of data analytics and uncovering insigh
 
 ---
 
-## Projects
-
-### [Gurgaon_Housing_Market_Analysis](https://github.com/atulkumar7810/Gurgaon_Housing_Market_Analysis)
-- Collected 3,000+ data points through web scraping, enhancing retrieval speed by 30% with BeautifulSoup.
-- Achieved 92% accuracy in predicting Gurgaon property prices using Random Forest.
-- Implemented weighted cosine similarity for recommendations based on price, amenities, and distance.
-
-### [Credit Risk Modeling](https://github.com/atulkumar7810/Credit-Risk-Modeling)
-- Developed a credit risk model analyzing 85,000 data points in Python, achieving 90% accuracy.
-- Integrated it into a user-friendly Flask web app for predictions, enhancing usage by 20%.
-
----
-
 ## Certifications
 - Google Data Analytics, [Coursera](https://www.coursera.org/account/accomplishments/professional-cert/F9MFBHMY6234)  
 - Microsoft Power BI Data Analyst, [Coursera](https://www.coursera.org/account/accomplishments/professional-cert/BMQ511WM3JM5)  
