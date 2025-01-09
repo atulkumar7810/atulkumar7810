@@ -5,7 +5,7 @@ I'm passionate about exploring the world of data analytics and uncovering insigh
 ## Atul Kumar GitHub Stats
 <div style="border: 2px solid #ccc; border-radius: 10px; padding: 15px; padding-left: 30px; width: 50%; margin: 0 auto; text-align: left;">
   <ul>
-    <li><strong>Total Stars Earned:</strong> 4</li>
+    <li><strong>Total Stars Earned:</strong> 2</li>
     <li><strong>Total Commits (2025):</strong> 93</li>
     <li><strong>Total PRs:</strong> 2</li>
     <li><strong>Total Issues:</strong> 0</li>
