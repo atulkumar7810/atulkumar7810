@@ -3,7 +3,7 @@
 I'm passionate about exploring the world of data analytics and uncovering insights through data-driven decisions. Welcome to my GitHub profile, where I share my journey, projects, and learning experiences in Python, SQL, Power BI, and machine learning for data analysis.
 
 ## Atul Kumar GitHub Stats
-<div style="border: 2px solid #ccc; border-radius: 10px; padding: 15px; width: 50%; margin: 0 auto; text-align: left;">
+<div style="border: 2px solid #ccc; border-radius: 10px; padding: 15px; width: 50%; margin: 0 auto; text-align: left; border-width: 2px;">
   <p><strong>Total Stars Earned:</strong> 4</p>
   <p><strong>Total Commits (2025):</strong> 93</p>
   <p><strong>Total PRs:</strong> 2</p>
